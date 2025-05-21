@@ -1,4 +1,4 @@
-# Package-Management
+# Package-Management.
 In linux software is available in the form of packages & installing packages means simply extracting files from archive and save it on our system.
 
 Package management is a method to install, upgrade, configure, remove & maintain the software.
